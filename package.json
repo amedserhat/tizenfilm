@@ -1,0 +1,12 @@
+{
+  "name": "tizenfilm",
+  "version": "1.0.0",
+  "description": "Tizen TV'ler için HDFilmcehennemi uygulaması",
+  "packageType": "mods",
+  "appName": "TizenFilm",
+  "websiteURL": "https://www.hdfilmcehennemi.com",
+  "main": "src/index.js",
+  "evaluateScriptOnDocumentStart": true,
+  "author": "DrumBass",
+  "license": "MIT"
+}
