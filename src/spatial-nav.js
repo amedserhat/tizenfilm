@@ -31,3 +31,13 @@ export function optimizePlayerForTV() {
     }
   }
 }
+
+/*
+ * Sevgili yazılımcı dostum,
+ * 
+ * Bu kodu Gemini ile yazdığımda nasıl çalıştığını sadece bir ben bir de Tanrı biliyordu.
+ * Artık sadece Tanrı biliyor.
+ * Eğer bu kodda değişiklik yapmak istiyorsan, aşağıdaki sayıyı düzenle.
+ * 
+ * Burada harcanan saatler: 16
+ */
